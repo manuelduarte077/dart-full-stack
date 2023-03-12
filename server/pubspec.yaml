@@ -1,5 +1,5 @@
 name: users_api
-description: An new Dart Frog application
+description: A Rest API using Dart Frog
 version: 1.0.0+1
 publish_to: none
 

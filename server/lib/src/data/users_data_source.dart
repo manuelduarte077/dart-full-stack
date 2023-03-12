@@ -1,4 +1,4 @@
-import 'models/models.dart';
+import 'package:users_api/src/data/models/models.dart';
 
 /// {@template users_data_source}
 /// Interface that defines all the methods for Users data source

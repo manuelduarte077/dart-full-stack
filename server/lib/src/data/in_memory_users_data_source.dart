@@ -1,5 +1,5 @@
-import 'models/models.dart';
-import 'users_data_source.dart';
+import 'package:users_api/src/data/models/models.dart';
+import 'package:users_api/src/data/users_data_source.dart';
 
 /// {@template in_memory_users_data_source}
 /// An in-memory implementation of the [UsersDataSource] interface.
